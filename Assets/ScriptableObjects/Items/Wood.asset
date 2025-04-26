@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 086cac31bc7dc634698b0b1af5abdbe2, type: 3}
-  m_Name: Gold
+  m_Name: Wood
   m_EditorClassIdentifier: 
-  id: 0
+  id: 1
   itemType: 1
-  icon: {fileID: 1756181113, guid: e1c940de3c231e24c8d999677568e522, type: 3}
-  maxStack: 750
-  itemName: "\u0417\u043E\u043B\u043E\u0442\u043E"
+  icon: {fileID: -983514224, guid: e1c940de3c231e24c8d999677568e522, type: 3}
+  maxStack: 10
+  itemName: "\u0414\u0440\u0435\u0432\u0435\u0441\u0438\u043D\u0430"
+  description: "\u0420\u0435\u0441\u0443\u0440\u0441\u044B"

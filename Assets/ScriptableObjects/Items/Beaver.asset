@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 086cac31bc7dc634698b0b1af5abdbe2, type: 3}
-  m_Name: Cat
+  m_Name: Beaver
   m_EditorClassIdentifier: 
-  id: 52
+  id: 50
   itemType: 0
-  icon: {fileID: -790687848, guid: e1c940de3c231e24c8d999677568e522, type: 3}
+  icon: {fileID: -255376166, guid: e1c940de3c231e24c8d999677568e522, type: 3}
   maxStack: 3
-  itemName: "\u041A\u043E\u0442\u0438\u043A"
+  itemName: "\u0411\u043E\u0431\u0451\u0440"
+  description: "\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0435"

@@ -48,8 +48,6 @@ namespace Model
                     count -= toAdd;
                 }
             }
-
-            // Всегда возвращаем true (можно добавить логику, если места не хватило)
             return true;
         }
         public bool RemoveItem(int slotIndex, int count = 1)

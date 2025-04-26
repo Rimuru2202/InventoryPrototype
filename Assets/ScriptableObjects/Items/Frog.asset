@@ -17,3 +17,4 @@ MonoBehaviour:
   icon: {fileID: 1603718665, guid: e1c940de3c231e24c8d999677568e522, type: 3}
   maxStack: 3
   itemName: "\u041B\u044F\u0433\u0443\u0448\u043A\u0430"
+  description: "\u0416\u0438\u0432\u043E\u0442\u043D\u043E\u0435"
